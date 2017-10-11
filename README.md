@@ -1,2 +1,2 @@
 # adzlab
-Everything I didm doing and will do....basically my legacy 
+Everything I did doing and will do....basically my legacy 
