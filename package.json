@@ -1,0 +1,22 @@
+{
+  "name": "adzlab",
+  "version": "1.0.0",
+  "description": "all my experiments",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityagohad/adzlab.git"
+  },
+  "author": "adityagohad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityagohad/adzlab/issues"
+  },
+  "homepage": "https://github.com/adityagohad/adzlab#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
